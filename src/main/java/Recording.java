@@ -2,7 +2,7 @@ import java.util.Collection;
 import java.util.Set;
 
 public class Recording {
-	private final int year = 0;
+	private final int year;
 	private final String artist;
 	private final String title;
 	private final String type;
