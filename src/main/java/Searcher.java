@@ -1,6 +1,6 @@
 import java.util.Collection;
 
-public class Searcher{
+public class Searcher{ //klassen där sökmetoderna ska implementeras
 
 	public Searcher(Collection<Recording> data) {
 		
